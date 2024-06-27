@@ -1,2 +1,2 @@
 # MS
-scripts for lncRNA annotation (Master degree in BIG Lab)
+Scripts for PBMC bulk RNA-seq data lncRNA identification and annotation (M.S. Project in BIG Lab)
